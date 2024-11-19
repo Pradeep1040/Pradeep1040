@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pradeep
 ===============================================================================================================================
 
-FullStack Web Developer
+Software Developer
 -----------------------
 
 Welcome to my GitHub profile, where lines of code transform into solutions and ideas take shape. With a passion for technology and a commitment to collaboration, I've curated this space as a testament to my journey in software development and open-source contribution. Here, you'll find a diverse array of projects, each representing a unique challenge, a spark of creativity, or a shared endeavor within the vibrant GitHub community.
